@@ -1,0 +1,15 @@
+dropout_rate:0.1,tau:0.01,2.528412
+dropout_rate:0.5,tau:0.04,2.5296054
+dropout_rate:0.5,tau:0.04,2.528396
+dropout_rate:0.5,tau:0.04,2.5283697
+dropout_rate:0.5,tau:0.04,2.5283697
+dropout_rate:0.5,tau:0.04,2.5296054
+dropout_rate:0.5,tau:0.04,2.528497
+dropout_rate:0.5,tau:0.04,2.5284126
+dropout_rate:0.5,tau:0.04,2.528374
+dropout_rate:0.005,tau:0.05,2.188439
+dropout_rate:0.1,tau:0.04,2.5284894
+dropout_rate:0.1,tau:0.04,2.5284142
+dropout_rate:0.441,tau:0.507,1.2597332
+dropout_rate:0.441,tau:0.507,1.2589011
+dropout_rate:0.441,tau:0.507,1.2599643
